@@ -1,0 +1,86 @@
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.csproj.AssemblyReference.cache
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.AssemblyInfoInputs.cache
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.AssemblyInfo.cs
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manju\source\repos\Aurastha WebAPI\Aurastha WebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.csproj.AssemblyReference.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.AssemblyInfoInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.AssemblyInfo.cs
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.API.exe
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.API.deps.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.API.runtimeconfig.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.API.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.API.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Repository.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Repository.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Models.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets\msbuild.Aurastha.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Aurastha.API.props
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Aurastha.API.props
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Aurastha.API.props
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\scopedcss\bundle\Aurastha.API.styles.css
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.csproj.CopyComplete
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\refint\Aurastha.API.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\Aurastha.API.genruntimeconfig.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\obj\Debug\net7.0\ref\Aurastha.API.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Business.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\Aurastha.Api.Business.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,0 +1,12 @@
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\bin\Debug\net7.0\Aurastha.Api.Models.deps.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\bin\Debug\net7.0\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\bin\Debug\net7.0\Aurastha.Api.Models.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.csproj.AssemblyReference.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.AssemblyInfoInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.AssemblyInfo.cs
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\refint\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\Aurastha.Api.Models.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Models\obj\Debug\net7.0\ref\Aurastha.Api.Models.dll

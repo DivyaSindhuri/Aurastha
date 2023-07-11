@@ -1,0 +1,17 @@
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.csproj.AssemblyReference.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.AssemblyInfoInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.AssemblyInfo.cs
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Repository.deps.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Repository.runtimeconfig.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Repository.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Repository.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\bin\Debug\net7.0\Aurastha.Api.Models.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.csproj.CopyComplete
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\refint\Aurastha.Api.Repository.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\Aurastha.Api.Repository.genruntimeconfig.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Repository\obj\Debug\net7.0\ref\Aurastha.Api.Repository.dll

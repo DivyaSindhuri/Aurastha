@@ -1,0 +1,17 @@
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Business.deps.json
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Business.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Business.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.csproj.AssemblyReference.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.AssemblyInfoInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.AssemblyInfo.cs
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\refint\Aurastha.Api.Business.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\ref\Aurastha.Api.Business.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Models.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Repository.dll
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Models.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\bin\Debug\net7.0\Aurastha.Api.Repository.pdb
+C:\Users\Manju\source\repos\AurasthaWebAPI\Aurastha.Api.Business\obj\Debug\net7.0\Aurastha.Api.Business.csproj.CopyComplete
